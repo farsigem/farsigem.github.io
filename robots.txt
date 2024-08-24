@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://farsigem.github.io/sitemap/sitemap.txt
